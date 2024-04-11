@@ -11,6 +11,7 @@ def exibir_mensagem_2(nome):
 def exibir_mensagem_3(nome="Anônimo"):
     print(f"Seja bem vindo {nome}!")
 
+# exemplo retornando uma mensagem para usuário
 def saudacao():
     nome = input("Por favor, insira seu nome: ")
     print(f"Oi, {nome}!")
