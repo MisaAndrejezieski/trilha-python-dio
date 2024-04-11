@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-#Primeira função
-
-=======
 # Primeira função:
->>>>>>> 6ad332613d139a3c4c68d3a3c00857eaf1c62ff5
+
 def exibir_mensagem():
     print("Olá mundo!")
 
