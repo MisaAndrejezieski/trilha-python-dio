@@ -1,4 +1,4 @@
-# Primeira 
+# Primeira função:
 def exibir_mensagem():
     print("Olá mundo!")
 
